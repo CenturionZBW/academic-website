@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bowen Zhong
 
 # Username (this should match the folder name)
 authors:
@@ -21,21 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Cell-Free Massive MIMO
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Internet of Things
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Information and Communication Engineering
+    institution: Harbin Institute of Technology
+    year: 2018-2020
+  - course: BSc in Telecommunication Engineering
+    institution: Harbin Institute of Technology
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Graduate of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Massive MIMO, machine learning and Internet of Things.
 
 interests:
 - Cell-Free Massive MIMO
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bowen Zhong is a graduate student with master degree in electronic engineering from Harbin Institute of Technology. His research interests include Massive MIMO, machine learning and Internet of Things. Now he is applying for a PhD candidate in electronic engineering/computer science. If you are interested in his research, please contact him by e-mail. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+

@@ -31,7 +31,6 @@ date_format = "Jan 2006"
   * Designed a precoding and combining scheme based on Convolutional Neural Network, which improves spectrual efficiency of the system while maintaining a relatively low computation complexity
   * Proposed a novel user-centric architecture to solve scability problem faced by Cell-Free Massive MIMO system, and optimized the AP selection schemes
   """
-  company = "Advisor: Prof. Shaochuan Wu"
 
 [[experience]]
   title = "Professor"

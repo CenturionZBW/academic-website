@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Graduate of Artificial Intelligence
-
+role: Master Graduate of Electronic Engineering
 # Organizations/Affiliations
 organizations:
 - name: 
@@ -41,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link:  'bwzhong2020@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/CenturionZBW
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Bowen Zhong is a graduate student with master degree in electronic engineering from Harbin Institute of Technology. His research interests include Massive MIMO, machine learning and Internet of Things. Now he is applying for a PhD candidate in electronic engineering/computer science. If you are interested in his research, please contact him by e-mail. 
+Bowen Zhong is a graduate student with a master degree in electronic engineering from Harbin Institute of Technology. His research interests include Massive MIMO, machine learning and Internet of Things. Now he is applying for a PhD candidate in electronic engineering/computer science. If you are interested in his research, please contact him by e-mail. 
 
 

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research on Combining and Precoding Algorithms in Cell-Free Massive MIMO System"
+  company = "Master Project"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  # location = "California"
+  date_start = "2019-06-01"
+  date_end = "2020-06-01"
   description = """
-  Responsibilities include:
+  Developing from the distributed Massive MIMO system, the Cell-Free Massive MIMO system gradually becomes one of the most promising structures for the next generation mobile communication system.
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analyzed the model of Cell-Free Massive MIMO system and simulated the downlink and uplink spectrual efficiency with different precoding and combining algortihms when considering fronthaul limitaion
+  * Designed a precoding and combining scheme based on Convolutional Neural Network, which improves spectrual efficiency of the system while maintaining a relatively low computation complexity
+  * Proposed a novel user-centric architecture to solve scability problem faced by Cell-Free Massive MIMO system, and optimized the AP selection schemes
   """
 
 [[experience]]

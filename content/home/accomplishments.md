@@ -19,6 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Excellent Master Thesis"
+  date_start = "2020-06-01"
+  
+[[item]]
   # organization = ""
   # organization_url = ""
   title = "National Graduate Electronic Design Contest, Provincial First Prize"
@@ -27,6 +31,14 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  title = "First class scholarship for graduate students"
+  date_start = "2019&2018"
+  
+[[item]]
+  title = "Excellent Undergraduate Thesis"
+  date_start = "2018-06-01"
   
 [[item]]
   # organization = ""
@@ -45,6 +57,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "files/wulianwang.pdf"
   date_start = "2017-09-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  # organization = ""
+  # organization_url = ""
+  title = "Interdisciplinary Contest In Modeling, Honorable Mention"
+  url = ""
+  certificate_url = "files/meisai.pdf"
+  date_start = "2017-03-01"
   date_end = ""
   description = ""
 

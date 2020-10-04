@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = "National Undergraduate IoT Design Contest, the First Prize"
+  # organization = ""
+  # organization_url = ""
+  title = "National Graduate Electronic Design Contest, Provincial First Prize"
   url = ""
-  certificate_url = "files/IoT_contest.pdf"
-  date_start = "2017-09-01"
+  certificate_url = "files/yandiansai.pdf"
+  date_start = "2019-07-01"
   date_end = ""
   description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  # organization = ""
+  # organization_url = ""
+  title = "Innovation and Entrepreneurship Scholarship, by MIIT of China"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "files/gongxinbu.pdf"
+  date_start = "2018-06-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  # organization = ""
+  # organization_url = ""
+  title = "National Undergraduate IoT Design Contest, the First Prize"
+  url = ""
+  certificate_url = "files/wulianwang.pdf"
+  date_start = "2017-09-01"
+  date_end = ""
   description = ""
 
 +++

@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   
 [[item]]
   title = "First class scholarship for graduate students"
-  subtitle = "2019"
+  
   
 [[item]]
   title = "Excellent Undergraduate Thesis"

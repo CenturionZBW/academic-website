@@ -21,6 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Excellent Master Thesis"
   date_start = "2020-06-01"
+  date_end = ""
   
 [[item]]
   # organization = ""
@@ -35,10 +36,12 @@ date_format = "Jan 2006"
 [[item]]
   title = "First class scholarship for graduate students"
   date_start = "2019-09-01"
+  date_end = ""
   
 [[item]]
   title = "Excellent Undergraduate Thesis"
   date_start = "2018-06-01"
+  date_end = ""
   
 [[item]]
   # organization = ""

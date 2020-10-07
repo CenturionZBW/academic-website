@@ -35,8 +35,10 @@ date_format = "Jan 2006"
   
 [[item]]
   title = "First class scholarship for graduate students"
+  subtitle = "i love you"
   date_start = "2019-09-01"
   date_end = ""
+  description = "oh my god"
   
 [[item]]
   title = "Excellent Undergraduate Thesis"

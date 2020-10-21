@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research on Combining and Precoding Algorithms in Cell-Free Massive MIMO System"
   company = "Master Project"
-  company_url = ""
-  location = "California"
+  company_url = "Advisor: Prof. Shaochuan Wu"
+  # location = "California"
   date_start = "2019-06-01"
   date_end = "2020-06-01"
   description = """
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2019-03-01"
   description = """
-    Designed communication network for decentralized circumstance using LoRa, which is a popular communication protocol widely used in IoT systems
-  
+   Designed communication network for decentralized circumstance using LoRa, which is a popular communication protocol widely used in IoT systems
+
   * Employed AODV as routing protocol and included CSMA in MAC protocol
   * Improved the robustness of Ad-hoc network with a feedback scheme
   * Able to set up center nodes if needed and communicate with the cloud server, which is a competent design for a variety of IoT scenarios

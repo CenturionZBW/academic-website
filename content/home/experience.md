@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Research on Combining and Precoding Algorithms in Cell-Free Massive MIMO System"
   company = "Master Project"
   company_url = ""
-  # location = "California"
+  location = "California"
   date_start = "2019-06-01"
   date_end = "2020-06-01"
   description = """
@@ -34,16 +34,17 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Embedded Ad-hoc Communication Network with LoRa Protocol"
-  company = "Master Project"
+  company = ""
   company_url = ""
   # location = "California"
   date_start = "2018-06-01"
   date_end = "2019-03-01"
   description = """
-   Designed communication network for decentralized circumstance using LoRa, which is a popular communication protocol widely used in IoT systems
+    Designed communication network for decentralized circumstance using LoRa, which is a popular communication protocol widely used in IoT systems
   
-  * Employed AODV as routing protocol and CSMA in MAC protocol
+  * Employed AODV as routing protocol and included CSMA in MAC protocol
   * Improved the robustness of Ad-hoc network with a feedback scheme
+  * Able to set up center nodes if needed and communicate with the cloud server, which is a competent design for a variety of IoT scenarios
   """
   
   [[experience]]
@@ -58,12 +59,12 @@ date_format = "Jan 2006"
   
   * Employed the support vector regression (SVR) algorithm to fit the nonlinearity of the power amplifier in the MIMO system and compensate for the nonlinearity after the channel estimation
   * Designed an asymmetric demodulation method based on K-means algorithm in order to eliminate the effect of nonlinearity on demodulation, which turns out to outperform tradational demodulation methods
-  * Conducted hardware experiments based on universal software radio peripheral(USRP) to verify the algorithms
+  * Conducted hardware experiments based on universal software radio peripheral(USRP) to verify the proposed algorithms
   """
   
   [[experience]]
   title = "A Remote Teaching System for Electric Piano"
-  company = "Master Project"
+  company = "Award-winning Work"
   company_url = ""
   # location = "California"
   date_start = "2017-05-01"

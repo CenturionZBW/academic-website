@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research on Combining and Precoding Algorithms in Cell-Free Massive MIMO System"
   company = "Master Project"
-  company_url = "Advisor: Prof. Shaochuan Wu"
+  company_url = ""
   # location = "California"
   date_start = "2019-06-01"
   date_end = "2020-06-01"

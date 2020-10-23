@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[item]]
-  # organization = ""
-  # organization_url = ""
+  organization = "The 8th International Conference on Communications, Signal Processing, and Systems (CSPS)"
+  organization_url = ""
   title = "SVR Based Nonlinear PA Equalization in MIMO System with Rayleigh Channel"
-  url = ""
-  certificate_url = "files/yandiansai.pdf"
+  url = "files/paper1.pdf"
+  certificate_url = ""
   date_start = "2019-08-01"
   date_end = ""
-  description = "The 8th International Conference on Communications, Signal Processing, and Systems (CSPS)"
+  description = ""
   
 
 +++

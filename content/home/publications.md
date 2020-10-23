@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "conference"
+    author = "bwzhong"
     exclude_featured = false
   
 [design]

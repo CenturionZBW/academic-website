@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Publications"
+title = "Publication"
 subtitle = ""
 
 # Date format
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "The 8th International Conference on Communications, Signal Processing, and Systems (CSPS)"
   organization_url = ""
   title = "SVR Based Nonlinear PA Equalization in MIMO System with Rayleigh Channel"
-  url = "files/paper1.pdf"
+  url = "files/publication.pdf"
   certificate_url = ""
   date_start = "2019-08-01"
   date_end = ""

@@ -20,8 +20,8 @@ organizations:
 bio: My research interests include Massive MIMO, machine learning and Internet of Things.
 
 interests:
+- Machine Learning in Wireless Communication
 - Cell-Free Massive MIMO
-- Artificial Intelligence
 - Internet of Things
 
 education:
@@ -41,12 +41,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link:  'bwzhong2020@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+# - icon: twitter
+#  icon_pack: fab
+#  link: 
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/CenturionZBW
@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Bowen Zhong is a graduate student with a master degree in electronic engineering from Harbin Institute of Technology. His research interests include Massive MIMO, machine learning and Internet of Things. Now he is applying for a PhD candidate in electronic engineering/computer science. If you are interested in his research, please contact him by e-mail. 
+Bowen Zhong is a graduate student with a master degree in electronic engineering from Harbin Institute of Technology. His research interests include Massive MIMO, machine learning and Internet of Things. Now he is applying for a PhD candidate in electronic engineering. If you are interested in his research, please contact him by e-mail. 
 
 

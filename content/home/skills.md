@@ -50,12 +50,6 @@ subtitle = ""
   name = "Altium Designer"
   # description = "10%"
 
-[[feature]]
-  # icon = "camera-retro"
-  # icon_pack = "fas"
-  name = "Adobe Premiere"
-  # description = "10%"
-
 
 
 
